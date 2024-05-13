@@ -1,6 +1,6 @@
 # Hi there 👋, I am Wilton R. Cruz
 
-[![Linkedin Badge](https://img.shields.io/badge/-wilton-cruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilton-cruz-5835916/)](https://www.linkedin.com/in/wilton-cruz-5835916/)
+[![Linkedin Badge](https://img.shields.io/badge/-hacklock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilton-cruz-5835916/)](https://www.linkedin.com/in/wilton-cruz-5835916/)
 [![Gmail Badge](https://img.shields.io/badge/-devopsdosamba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devopsdosamba@gmail.com)](mailto:devopsdosamba@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hacklock) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hacklock)
 
@@ -8,10 +8,6 @@
 - 🌱 **I’m currently learning IA Engineer.**
 
   
-
-- 🔭 PHP, GOLANG, NODEJS, JAVA
-  
-
 - 🌱 Kubernetes
   
 
