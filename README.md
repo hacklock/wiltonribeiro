@@ -9,10 +9,8 @@
 
   
 - 🌱 Kubernetes
-  
-
+ 
 - DevSecops SRE  Golang/PHP  
-  
 
 - ⚡  (WAF, SAST, DAST, IAST, SCA)  
   
