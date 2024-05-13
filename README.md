@@ -1,11 +1,11 @@
 # Hi there 👋, I am Wilton R. Cruz
 
-[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/krushnat-khavale/](https://www.linkedin.com/in/wilton-cruz-5835916/)](https://[www.linkedin.com/in/wilton-cruz-5835916](https://www.linkedin.com/in/wilton-cruz-5835916/)/](https://www.linkedin.com/in/wilton-cruz-5835916/)
+[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilton-cruz-5835916/)](https://www.linkedin.com/in/wilton-cruz-5835916/)
 [![Gmail Badge](https://img.shields.io/badge/-devopsdosamba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devopsdosamba@gmail.com)](mailto:devopsdosamba@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hacklock) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hacklock)
 
-- 🔭 **I’m currently working on server side Java technologies.**
-- 🌱 **I’m currently learning natural language processing.**
+- 🔭 **I’m currently working in DevSecOps.**
+- 🌱 **I’m currently learning IA Engineer.**
 
   
 
@@ -20,7 +20,6 @@
 
 - ⚡  (WAF, SAST, DAST, IAST, SCA)  
   
-
 <br/>  
 
 
@@ -33,13 +32,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 </div>
 
@@ -78,6 +73,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
 </div>
 
 </td></tr></table>  
@@ -112,6 +111,6 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=humolot&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=hacklock&&style=flat-square" align="center" />
 </div>  
 
